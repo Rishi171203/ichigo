@@ -1,0 +1,22 @@
+html{
+    background: black;
+
+}
+H1{
+    text-transform: uppercase;
+    font-size: 3rem;
+}
+.first{
+    width: 50%;
+    margin-left: 15%;
+    margin-top: 10%;
+    color: antiquewhite;
+    font-family: 'Libre Baskerville', serif;
+    font-family: 'Tektur', sans-serif ;
+    text-align: center;
+               
+}
+.Favourite-anime-img{
+    border: 8px solid whitesmoke;
+    width:150%;
+}
